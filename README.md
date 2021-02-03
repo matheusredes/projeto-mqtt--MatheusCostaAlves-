@@ -1,1 +1,3 @@
-# projeto-mqtt--MatheusCostaAlves-
+#  Objetivo
+O objetivo desse projeto é colocar em prática todos os conhecimentos em programação básica utilizando o Arduino desde montagem à programação. Utilizamos o Arduino e um sensor magnético com foco em monitorar a porta de um rack se ele está *ABERTO* ou *FECHADO*, monitoramos usando um smartphone que utiliza um cliente MQTT(MQTT Dash) que tem um servidor hospedado na Amazon Web Service(AWS), tudo isso graças ao protocolo MQTT(Message Queuing Telemetry Transport), exemplo abaixo.
+(https://camo.githubusercontent.com/7beef2d4780d87a603d7de49b2da0467c8537dff96575b628a04bd4010ebb1cc/68747470733a2f2f692e696d6775722e636f6d2f4d576870586b562e706e67)
